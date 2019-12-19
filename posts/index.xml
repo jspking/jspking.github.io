@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Jspking&#39;s daily notes</title>
@@ -8,19 +8,29 @@
     <language>ko-KR</language>
     <managingEditor>jspking@gmail.com (jspking)</managingEditor>
     <webMaster>jspking@gmail.com (jspking)</webMaster>
-    <lastBuildDate>Tue, 17 Sep 2019 21:17:01 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2019 23:35:01 +0900</lastBuildDate>
     
 	<atom:link href="https://jspking.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>블로그를 시작하며</title>
-      <link>https://jspking.github.io/posts/starting_blog/</link>
-      <pubDate>Tue, 17 Sep 2019 21:17:01 +0900</pubDate>
+      <title>ESP8266</title>
+      <link>https://jspking.github.io/posts/esp8266/</link>
+      <pubDate>Thu, 19 Sep 2019 23:35:01 +0900</pubDate>
       <author>jspking@gmail.com (jspking)</author>
-      <guid>https://jspking.github.io/posts/starting_blog/</guid>
-      <description>나는 왜 뜬금없이 블로그를 시작하는가? 오늘 한 일은 오늘에만 머무르지 않는다. 내일 또는 그 보다 먼 미래에 오늘은 내 머릿속에 기억이라는 것으로 남는다. 내 기억 저편 어딘가에 남아 있는 것과 있었는지 조차 기억도 못하는 잊혀진 것이 있다. 언제나 안타까운 것은 내 거억에 있었는데, 기억이 날 듯 말 듯한 것들이 너무 많다는 것이다.
-나의 보조기억 장치.</description>
+      <guid>https://jspking.github.io/posts/esp8266/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2.4&#34; TFT LCD와 ESP8266 연동하기.</title>
+      <link>https://jspking.github.io/posts/2.4-tft-lcd-with_esp8266/</link>
+      <pubDate>Thu, 19 Sep 2019 23:23:55 +0900</pubDate>
+      <author>jspking@gmail.com (jspking)</author>
+      <guid>https://jspking.github.io/posts/2.4-tft-lcd-with_esp8266/</guid>
+      <description>시작하며 MCU를 가지고 놀 때 언제나 아쉬운 것은 휴먼 인터페이스가 아닐까 한다. 요즘 같은 스마트 기기 춘추전국 시대에, 그냥 지 할 알만 하는 녀석은 뭔가 항상 아쉬움이 있다. 그래서 일단 사용자에게 다양한 정보를 보여줄 수 있는 디스플레이를 고민하다가, 우연히 값이 아주 착한 LCD module을 찾았다. 이 녀석 핸들링을 익혀두면 두고두고 응용이 가능할 것 같아 기록을 남겨본다.
+ESP8266을 사용할 것이다.
+LCD module 이번에 사용해 보고자 하는 LCD는 ILI9341을 드라이버 IC로 사용하는 2.</description>
     </item>
     
   </channel>
