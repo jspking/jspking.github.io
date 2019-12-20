@@ -8,10 +8,21 @@
     <language>ko-KR</language>
     <managingEditor>jspking@gmail.com (jspking)</managingEditor>
     <webMaster>jspking@gmail.com (jspking)</webMaster>
-    <lastBuildDate>Thu, 19 Sep 2019 23:35:01 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2019 17:13:58 +0900</lastBuildDate>
     
 	<atom:link href="https://jspking.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[tips] VScode Linux 버전에서 한글이 깨져보인다.</title>
+      <link>https://jspking.github.io/posts/vscode-linux-broken-korean-character/</link>
+      <pubDate>Thu, 19 Dec 2019 17:13:58 +0900</pubDate>
+      <author>jspking@gmail.com (jspking)</author>
+      <guid>https://jspking.github.io/posts/vscode-linux-broken-korean-character/</guid>
+      <description>한글이 깨져보인다. code 에서&amp;hellip; 사실 나도 지금 깨달았다. vscode에서 한글이 깨진다(?)는 것을.. 깨진다는 표현이라가 보다는 몇 몇 받침이 종성으로 들어가지 못하고 초성으로 빠져나오는 현상이 발생했다. 테스트 해 보니 리눅스에서만 이런 현상이 나온다. 윈도우, 맥 모두 정상이었다.
+어떻게 보이냐면&amp;hellip; &amp;ldquo;같다&amp;ldquo;를 입력하면 &amp;ldquo;가ㅌ다&amp;ldquo;로 보인다. 다만 보이기만 저렇게 보일 뿐 다른 에디터로 확인해 보면 정상적으로 입력되어 있었다.
+해결 방법 블로그를 참조하자. 간단히 결론만 말하면, 에디터 폰트 설정에서 &amp;ldquo;Droid Sans Fallback&amp;quot;를 제거하면 된다.</description>
+    </item>
     
     <item>
       <title>ESP8266</title>

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jspking&#39;s daily notes</title>
-    <link>https://jspking.github.io/</link>
-    <description>Recent content on Jspking&#39;s daily notes</description>
+    <title>vscode on Jspking&#39;s daily notes</title>
+    <link>https://jspking.github.io/categories/vscode/</link>
+    <description>Recent content in vscode on Jspking&#39;s daily notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-KR</language>
     <managingEditor>jspking@gmail.com (jspking)</managingEditor>
     <webMaster>jspking@gmail.com (jspking)</webMaster>
     <lastBuildDate>Thu, 19 Dec 2019 17:13:58 +0900</lastBuildDate>
     
-	<atom:link href="https://jspking.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jspking.github.io/categories/vscode/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -22,26 +22,6 @@
       <description>한글이 깨져보인다. code 에서&amp;hellip; 사실 나도 지금 깨달았다. vscode에서 한글이 깨진다(?)는 것을.. 깨진다는 표현이라가 보다는 몇 몇 받침이 종성으로 들어가지 못하고 초성으로 빠져나오는 현상이 발생했다. 테스트 해 보니 리눅스에서만 이런 현상이 나온다. 윈도우, 맥 모두 정상이었다.
 어떻게 보이냐면&amp;hellip; &amp;ldquo;같다&amp;ldquo;를 입력하면 &amp;ldquo;가ㅌ다&amp;ldquo;로 보인다. 다만 보이기만 저렇게 보일 뿐 다른 에디터로 확인해 보면 정상적으로 입력되어 있었다.
 해결 방법 블로그를 참조하자. 간단히 결론만 말하면, 에디터 폰트 설정에서 &amp;ldquo;Droid Sans Fallback&amp;quot;를 제거하면 된다.</description>
-    </item>
-    
-    <item>
-      <title>ESP8266</title>
-      <link>https://jspking.github.io/posts/esp8266/</link>
-      <pubDate>Thu, 19 Sep 2019 23:35:01 +0900</pubDate>
-      <author>jspking@gmail.com (jspking)</author>
-      <guid>https://jspking.github.io/posts/esp8266/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2.4&#34; TFT LCD와 ESP8266 연동하기.</title>
-      <link>https://jspking.github.io/posts/2.4-tft-lcd-with_esp8266/</link>
-      <pubDate>Thu, 19 Sep 2019 23:23:55 +0900</pubDate>
-      <author>jspking@gmail.com (jspking)</author>
-      <guid>https://jspking.github.io/posts/2.4-tft-lcd-with_esp8266/</guid>
-      <description>시작하며 MCU를 가지고 놀 때 언제나 아쉬운 것은 휴먼 인터페이스가 아닐까 한다. 요즘 같은 스마트 기기 춘추전국 시대에, 그냥 지 할 알만 하는 녀석은 뭔가 항상 아쉬움이 있다. 그래서 일단 사용자에게 다양한 정보를 보여줄 수 있는 디스플레이를 고민하다가, 우연히 값이 아주 착한 LCD module을 찾았다. 이 녀석 핸들링을 익혀두면 두고두고 응용이 가능할 것 같아 기록을 남겨본다.
-ESP8266을 사용할 것이다.
-LCD module 이번에 사용해 보고자 하는 LCD는 ILI9341을 드라이버 IC로 사용하는 2.</description>
     </item>
     
   </channel>
