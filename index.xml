@@ -8,19 +8,10 @@
     <language>ko-KR</language>
     <managingEditor>jspking@gmail.com (jspking)</managingEditor>
     <webMaster>jspking@gmail.com (jspking)</webMaster>
-    <lastBuildDate>Tue, 01 Sep 2020 18:50:19 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2019 17:13:58 +0900</lastBuildDate>
     
 	<atom:link href="https://jspking.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>[독서기록] 정리하는 뇌</title>
-      <link>https://jspking.github.io/posts/%EB%8F%85%EC%84%9C%EA%B8%B0%EB%A1%9D-%EC%A0%95%EB%A6%AC%ED%95%98%EB%8A%94-%EB%87%8C/</link>
-      <pubDate>Tue, 01 Sep 2020 18:50:19 +0900</pubDate>
-      <author>jspking@gmail.com (jspking)</author>
-      <guid>https://jspking.github.io/posts/%EB%8F%85%EC%84%9C%EA%B8%B0%EB%A1%9D-%EC%A0%95%EB%A6%AC%ED%95%98%EB%8A%94-%EB%87%8C/</guid>
-      <description>들어가며 이 책을 읽고 있는 시점에 전 세계적으로 주식시장이 끝을 모르고 오르고 있다. 그때 주식관련해서 유명하신 분들을 인터뷰해서 영상을 만드는 채널들이 있었는데, 그 중 하나인 김작가 TV를 보다가 게스트로 나와서 자신이 읽고 자신의 인생을 변하게 한 책이라고 소개해 줘서 알게 된 책이다. 이 책을 알게된 시기에 이 책 말고도 읽고 있었던 책들(&amp;ldquo;주식시장은 어떻게 반복되는가&amp;rdquo;, &amp;ldquo;수학의 쓸모&amp;rdquo;)이 있었는데, 읽던 것을 그만두고 이 책부터 읽게되었다. 마음이 더 끌렸다는 것이다. 그동안 책을 읽었더도 정리가 되지 않고 뭔가 개운하지 못한 느낌으로 책을 덮곤 했었던 느끼음 떨쳐바리고 싶었는지 모르겠다.</description>
-    </item>
     
     <item>
       <title>[tips] VScode Linux 버전에서 한글이 깨져보인다.</title>
