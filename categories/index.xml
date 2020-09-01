@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Jspking&#39;s daily notes</title>
@@ -8,13 +8,21 @@
     <language>ko-KR</language>
     <managingEditor>jspking@gmail.com (jspking)</managingEditor>
     <webMaster>jspking@gmail.com (jspking)</webMaster>
-    <lastBuildDate>Thu, 19 Dec 2019 17:13:58 +0900</lastBuildDate>
     
 	<atom:link href="https://jspking.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>vscode</title>
+      <title>Embedded</title>
+      <link>https://jspking.github.io/categories/embedded/</link>
+      <pubDate>Thu, 19 Sep 2019 23:35:01 +0900</pubDate>
+      <author>jspking@gmail.com (jspking)</author>
+      <guid>https://jspking.github.io/categories/embedded/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vscode</title>
       <link>https://jspking.github.io/categories/vscode/</link>
       <pubDate>Thu, 19 Dec 2019 17:13:58 +0900</pubDate>
       <author>jspking@gmail.com (jspking)</author>
@@ -23,11 +31,11 @@
     </item>
     
     <item>
-      <title>embedded</title>
-      <link>https://jspking.github.io/categories/embedded/</link>
-      <pubDate>Thu, 19 Sep 2019 23:35:01 +0900</pubDate>
+      <title>독서록</title>
+      <link>https://jspking.github.io/categories/%EB%8F%85%EC%84%9C%EB%A1%9D/</link>
+      <pubDate>Tue, 01 Sep 2020 18:50:19 +0900</pubDate>
       <author>jspking@gmail.com (jspking)</author>
-      <guid>https://jspking.github.io/categories/embedded/</guid>
+      <guid>https://jspking.github.io/categories/%EB%8F%85%EC%84%9C%EB%A1%9D/</guid>
       <description></description>
     </item>
     
